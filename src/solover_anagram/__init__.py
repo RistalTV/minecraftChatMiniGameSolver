@@ -1,0 +1,1 @@
+from .solover import decode_anagram
